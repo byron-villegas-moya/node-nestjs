@@ -1,0 +1,32 @@
+swagger:
+  title: 'Node NestJS'
+  description: 'Node NestJS'
+  contact:
+    name: 'Byron Villegas Moya'
+    url: ''
+    email: 'byronvillegasm@gmail.com'
+  license:
+    name: 'MIT'
+    url: ''
+  version: '1.0.0'
+  path: 'swagger-ui.html'
+
+info:
+  application:
+    name: Node NestJS
+    description: Node NestJS
+    version: 1.0.0
+
+server:
+  path: '/api'
+  port: 3000
+
+authorization:
+  secret: 'gMnZjVODmU'
+  expiresIn: 3600
+  roles:
+    - 'ROLE_USER_NESTJS'
+    - 'ROLE_USER_NODE'
+  scope:
+    - 'read'
+    - 'write'
