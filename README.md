@@ -1822,7 +1822,7 @@ Usamos [SemVer](https://semver.org/) para el versionado. Para todas las versione
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-- **Byron Villegas** - *Desarrollador* - [byron-villegas](https://github.com/byron-villegas)
+- **Byron Villegas Moya** - *Desarrollador* - [byron-villegas](https://github.com/byron-villegas)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/byron-villegas/node-nestjs/graphs/contributors) quíenes han participado en este proyecto. 
 
