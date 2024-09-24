@@ -11,12 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/byron.villegas/node-nestjs.git"
+    "url": "https://github.com/byron-villegas/node-nestjs"
   },
   "bugs": {
-    "url": "https://gitlab.com/byron.villegas/node-nestjs/issues"
+    "url": "https://github.com/byron-villegas/node-nestjs/issues"
   },
-  "homepage": "https://gitlab.com/byron.villegas/node-nestjs#readme",
+  "homepage": "https://github.com/byron-villegas/node-nestjs",
   "engines": {
     "node": ">=v16.17.0"
   },
