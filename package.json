@@ -112,7 +112,8 @@
     "testEnvironment": "node",
     "coverageReporters": [
       "text-summary",
-      "html"
+      "html",
+      "cobertura"
     ]
   }
 }
